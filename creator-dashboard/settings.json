@@ -1,0 +1,21 @@
+{
+  "youtube": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "http://localhost:8000/auth/youtube/callback"
+  },
+  "facebook": {
+    "app_id": "",
+    "app_secret": "",
+    "access_token": "",
+    "page_id": ""
+  },
+  "instagram": {
+    "account_id": "",
+    "max_hashtags": 5
+  },
+  "general": {
+    "default_title": "",
+    "auto_generate_ai": false
+  }
+}
